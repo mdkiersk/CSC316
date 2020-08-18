@@ -1,2 +1,2 @@
 # CSC316
-All projects and labs completed for Data Structures &amp; Algorithms
+All projects and labs completed for a course in Data Structures &amp; Algorithms
